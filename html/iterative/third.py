@@ -1,2 +1,5 @@
-for x in range( 0,4):
-    print(" * " * x )
+for x in range( 2,7):
+    print( " * " * x )
+    
+    
+ 
