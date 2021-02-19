@@ -1,2 +1,2 @@
-for x in range( 10)
-print("a"*x)
+for x in range( 10):
+    print("A" *x)
